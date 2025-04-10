@@ -1,0 +1,23 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    - avoid_print: true
+    - prefer_single_quotes: true
+    - use_full_hex_values_for_flutter_colors: true
+    - always_declare_return_types: true
+    - annotate_overrides: true
+    - avoid_empty_else: true
+    - camel_case_types: true
+    - empty_catches: true
+    - file_names: true
+    - prefer_const_constructors: true
+    - prefer_final_fields: true
+    - prefer_final_locals: true
+    - sized_box_for_whitespace: true
+    - unnecessary_const: true
+    - unnecessary_this: true
+
+analyzer:
+  errors:
+    todo: warning

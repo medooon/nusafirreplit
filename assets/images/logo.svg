@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#f0f0f0" rx="20" ry="20"/>
+  <text x="100" y="120" font-family="Arial" font-size="24" text-anchor="middle" fill="#555555">Visa Mediation</text>
+  <path d="M100,50 L130,90 L100,130 L70,90 Z" fill="#2196f3" stroke="#0d47a1" stroke-width="2"/>
+  <circle cx="100" cy="90" r="15" fill="#ffffff"/>
+</svg>
