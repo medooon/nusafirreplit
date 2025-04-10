@@ -1,4 +1,4 @@
-import '../models/user.dart';
+import 'package:visa_mediation_app/models/user.dart';
 
 // Mock AuthService for now
 class AuthService {

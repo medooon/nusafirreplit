@@ -1,4 +1,4 @@
-import '../models/chat_message.dart';
+import 'package:visa_mediation_app/models/chat_message.dart';
 
 // Mock ChatService for now
 class ChatService {

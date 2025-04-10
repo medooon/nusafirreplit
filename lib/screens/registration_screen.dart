@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import '../services/auth_service.dart';
-import '../utils/validators.dart';
+import 'package:visa_mediation_app/services/auth_service.dart';
+import 'package:visa_mediation_app/utils/validators.dart';
 
 class RegistrationScreen extends StatefulWidget {
   @override

@@ -1,8 +1,8 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
-import '../utils/constants.dart';
-import '../models/visa_request.dart';
+import 'package:visa_mediation_app/utils/constants.dart';
+import 'package:visa_mediation_app/models/visa_request.dart';
 
 class PaymentVerification extends StatefulWidget {
   final VisaRequest visaRequest;

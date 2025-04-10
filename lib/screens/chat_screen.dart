@@ -1,13 +1,13 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
-import '../models/chat_message.dart';
-import '../models/user.dart';
-import '../models/visa_request.dart';
-import '../services/auth_service.dart';
-import '../services/chat_service.dart';
-import '../services/database_service.dart';
-import '../services/storage_service.dart';
-import '../widgets/chat_bubble.dart';
+import 'package:visa_mediation_app/models/chat_message.dart';
+import 'package:visa_mediation_app/models/user.dart';
+import 'package:visa_mediation_app/models/visa_request.dart';
+import 'package:visa_mediation_app/services/auth_service.dart';
+import 'package:visa_mediation_app/services/chat_service.dart';
+import 'package:visa_mediation_app/services/database_service.dart';
+import 'package:visa_mediation_app/services/storage_service.dart';
+import 'package:visa_mediation_app/widgets/chat_bubble.dart';
 
 class ChatScreen extends StatefulWidget {
   final String visaRequestId;

@@ -1,6 +1,6 @@
-import '../models/user.dart';
-import '../models/visa_request.dart';
-import '../models/office.dart';
+import 'package:visa_mediation_app/models/user.dart';
+import 'package:visa_mediation_app/models/visa_request.dart';
+import 'package:visa_mediation_app/models/office.dart';
 
 // Mock DatabaseService for now
 class DatabaseService {

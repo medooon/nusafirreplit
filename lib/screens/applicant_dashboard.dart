@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import '../models/visa_request.dart';
-import '../services/auth_service.dart';
-import '../services/database_service.dart';
+import 'package:visa_mediation_app/models/visa_request.dart';
+import 'package:visa_mediation_app/services/auth_service.dart';
+import 'package:visa_mediation_app/services/database_service.dart';
 
 class ApplicantDashboard extends StatefulWidget {
   final String userId;
